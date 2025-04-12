@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Localization Translation Reporter Tool
 
 ## Description
@@ -23,3 +24,7 @@ To get started, you'll need to install the required libraries. You can do so by 
 
 ```bash
 pip install pandas
+=======
+# Translation-Reporter
+A tool to track and report missing translations in a localization project. Supports CSV input and provides a user-friendly interface for easy export and reporting of translation gaps.
+>>>>>>> cf97af41aab0cdf3c0594aa83c742eb8e49b47be
