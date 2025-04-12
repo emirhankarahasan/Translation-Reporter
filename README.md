@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Localization Translation Reporter Tool
 
 ## Description
